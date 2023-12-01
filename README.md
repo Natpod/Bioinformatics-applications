@@ -1,5 +1,5 @@
 # Bioinformatics-applications
-Code containing python bash and awk applications for simple tasks in bioinformatics
+Code containing R, perl, python bash and awk applications for simple tasks in bioinformatics
 All the code is commented and described in Spanish
 
 | Codigo   |      Descripcion      |  Lng |
